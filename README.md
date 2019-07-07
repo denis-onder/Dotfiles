@@ -9,4 +9,4 @@
 
 You are more than welcome to use these dotfiles for your own setup.
 
-![Desktop](https://i.redd.it/3last8wwjv831.jpg)
+![Desktop](https://i.redd.it/l52efe9wkv831.jpg)
