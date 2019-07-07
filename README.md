@@ -1,6 +1,7 @@
 # My Dotfiles
 
 > Special thanks to Vishnu Madhusoodanan for his guide on using i3 with KDE
+
 > [Check out the guide!](https://medium.com/@vishnu_mad/using-i3-window-manager-with-kde-plasma-c2ac70594d8)
 
 ---
