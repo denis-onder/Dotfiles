@@ -1,0 +1,37 @@
+[global_config]
+  borderless = True
+  enabled_plugins = APTURLHandler, LaunchpadBugURLHandler
+  suppress_multiple_term_dialog = True
+  tab_position = hidden
+  title_inactive_fg_color = "#e5c200"
+[keybindings]
+  close_term = <Primary>w
+  close_window = <Primary><Shift>w
+  go_down = <Alt>j
+  go_left = <Alt>h
+  go_right = <Alt>l
+  go_up = <Alt>k
+  layout_launcher = <Primary><Shift><Alt>l
+  split_horiz = <Shift><Alt>h
+  split_vert = <Shift><Alt>v
+  toggle_zoom = <Alt>f
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#272822"
+    cursor_color = "#c20257"
+    font = JetBrains Mono 22
+    foreground_color = "#ffffff"
+    palette = "#181915:#7a0137:#498702:#c5bb63:#3465a4:#75507b:#4194b0:#d3d7cf:#45473c:#e00265:#6dca04:#e6db74:#1d71ca:#af5fff:#5cd1f8:#ffffff"
+    scrollback_infinite = True
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
